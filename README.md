@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehliug-git&langs_count=6&theme=github_dark&hide_border=true" />
 </a>
 
-<embed type="text/html" src="https://mehliug-git.github.io/Mehliug-git/RM_Badge.html" width="500" height="200">
+<embed type="text/html" src="https://mehliug-git.github.io/Mehliug-git/RM_Badge.html">
 
 ### My Portfolio
 
