@@ -5,8 +5,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehliug-git&langs_count=6&theme=github_dark&hide_border=true" />
 </a>
 
-<embed type="text/html" src="https://mehliug-git.github.io/Mehliug-git/RM_Badge.html">
-
+ <img align="center" src="https://raw.githubusercontent.com/Mehliug-git/Mehliug-git/main/test.webp" />
+  
 ### My Portfolio
 
 ~$ <a href="https://mehliug-git.io/Portfolio/">Whoami _</a>
