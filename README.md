@@ -9,7 +9,7 @@
   
 ### My Portfolio
 
-~$ <a href="https://mehliug-git.io/Portfolio/">Whoami _</a>
+~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a>
 
 <br><br><br><br>
 
