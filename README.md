@@ -6,6 +6,8 @@
 </a>
 
 <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/779ca298cba8edc1fd624f5adee95259/static_badge_dark.png" width="350" height="125"/>
+<script src="https://root-me-badge.cloud.duboc.xyz/storage_clients/779ca298cba8edc1fd624f5adee95259/badge.js"></script>
+
   
 ### My Portfolio
 
