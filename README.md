@@ -5,8 +5,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehliug-git&langs_count=6&theme=github_dark&hide_border=true" />
 </a>
 
-<script src="https://root-me-badge.cloud.duboc.xyz/storage_clients/779ca298cba8edc1fd624f5adee95259/badge.js"></script>
 
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/779ca298cba8edc1fd624f5adee95259/static_badge_dark.png" />
 
   
 ### My Portfolio
