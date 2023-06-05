@@ -11,8 +11,8 @@
   
 ### My Portfolio
 
-~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> <br>
-![](https://komarev.com/ghpvc/?username=Mehliug-git)
+~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> 
+
 <br><br><br><br>
 
 <p align="center">
@@ -21,3 +21,4 @@
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
+![](https://komarev.com/ghpvc/?username=Mehliug-git)
