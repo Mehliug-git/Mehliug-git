@@ -11,7 +11,7 @@
   
 ### My Portfolio
 
-~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a>
+~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> <br>
 ![](https://komarev.com/ghpvc/?username=Mehliug-git)
 <br><br><br><br>
 
