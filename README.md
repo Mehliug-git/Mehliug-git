@@ -1,5 +1,5 @@
 # Welcome to Mehliug's Github
-
+![](https://komarev.com/ghpvc/?username=Mehliug-git)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehliug-git&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false&theme=codeSTACKr" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehliug-git&langs_count=6&theme=github_dark&hide_border=true" />
@@ -21,4 +21,4 @@
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p> 
-![](https://komarev.com/ghpvc/?username=Mehliug-git)
+
