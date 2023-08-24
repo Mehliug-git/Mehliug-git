@@ -11,7 +11,7 @@
   
 ### Blablabla
 
-~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> 
+~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> <br>
 ~$ <a href="https://mehliug-bot.glitch.me/">The Timmy project</a> 
 
 
