@@ -12,7 +12,7 @@
 ### Blablabla
 
 ~$ <a href="https://mehliug-git.github.io/Portfolio/">Whoami _</a> <br>
-~$ <a href="https://mehliug-bot.glitch.me/">The Timmy project</a><strong> [KO for legal reasons]</strong>  <br>
+~$ <a href="https://mehliug-bot.glitch.me/">The Timmy project</a><strong> [Live access on demand]</strong>  <br>
 ~$ <a href="https://github.com/Mehliug-git/DDOS_Telegram_BOT">DDOS Telegram Botnet</a><strong>  [STOP OPEN ISSUES FOR SHIT] </strong>
 
 
