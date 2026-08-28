@@ -1,10 +1,6 @@
 # Welcome to Mehliug's Github
 ![](https://komarev.com/ghpvc/?username=Mehliug-git)<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehliug-git&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false&theme=codeSTACKr" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=5&theme=github_dark&hide_border=true" />
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=Mehliug-git"/>
-</a>
 
 
 <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/779ca298cba8edc1fd624f5adee95259/static_badge_light.png" />
